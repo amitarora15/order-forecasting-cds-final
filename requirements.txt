@@ -7,6 +7,6 @@ matplotlib
 scikit-learn==0.22
 tensorflow
 statsmodels
-fbprophet==0.7.1
-convertdate==2.3.2
 pystan
+convertdate==2.3.2
+fbprophet==0.7.1
