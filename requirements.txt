@@ -1,0 +1,10 @@
+joblib
+streamlit
+numpy
+pandas
+seaborn
+matplotlib
+scikit-learn==0.22
+tensorflow
+statsmodels
+fbprophet
