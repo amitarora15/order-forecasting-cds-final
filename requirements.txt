@@ -9,4 +9,4 @@ tensorflow
 statsmodels
 pystan
 convertdate
-fbprophet==0.7.1
+fbprophet
