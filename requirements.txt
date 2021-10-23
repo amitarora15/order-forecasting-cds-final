@@ -1,5 +1,4 @@
 joblib
-streamlit
 numpy
 pandas
 seaborn
@@ -7,6 +6,7 @@ matplotlib
 scikit-learn==0.22
 tensorflow
 statsmodels
+convertdate
 pystan==2.19.1.1
-convertdate==2.3.2
-fbprophet==0.7.1
+streamlit
+fbprophet
